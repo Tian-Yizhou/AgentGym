@@ -7,6 +7,7 @@ from .sciworld import SciworldEnvClient, SciworldTask, SciWorldAdapter
 from .sheet import SheetEnvClient, SheetTask
 from .sqlgym import SqlGymEnvClient, SqlGymTask
 from .textcraft import TextCraftEnvClient, TextCraftTask
+from .textworldexpress import TextWorldExpressEnvClient, TextWorldExpressTask
 from .todo import TodoEnvClient, TodoTask
 from .weather import WeatherEnvClient, WeatherTask
 from .webarena import WebarenaEnvClient, WebarenaTask
